@@ -1,0 +1,7 @@
+﻿  main.cpp
+C:\Users\BBGNXX\source\repos\Tugas4\Tugas4\main.cpp(50,20): warning C4018:  '<': signed/unsigned mismatch
+C:\Users\BBGNXX\source\repos\Tugas4\Tugas4\main.cpp(57,20): warning C4018:  '<': signed/unsigned mismatch
+C:\Users\BBGNXX\source\repos\Tugas4\Tugas4\main.cpp(65,20): warning C4018:  '<': signed/unsigned mismatch
+C:\Users\BBGNXX\source\repos\Tugas4\Tugas4\main.cpp(71,20): warning C4018:  '<': signed/unsigned mismatch
+C:\Users\BBGNXX\source\repos\Tugas4\Tugas4\main.cpp(72,21): warning C4018:  '<': signed/unsigned mismatch
+  Tugas4.vcxproj -> C:\Users\BBGNXX\source\repos\Tugas4\Debug\Tugas4.exe
